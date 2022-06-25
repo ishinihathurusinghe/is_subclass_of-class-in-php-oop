@@ -1,1 +1,1 @@
-# is_subclass_of-class-in-php-oop
+# is_subclass_of-fuction-in-php-oop
